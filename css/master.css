@@ -36,3 +36,33 @@ header {
 .navbar-default .navbar-brand {
     padding-left: 15px;
 }
+
+
+.ms--green{
+    width: 100%;
+    height: 1000px;
+    background-color: #1abc9c;
+}
+
+.img-fluid {
+    width: 250px;
+    margin: 0 auto;
+    vertical-align:bottom;
+    padding-top: 180px;
+    box-sizing: border-box;
+}
+
+.row h1 {
+    text-align: center;
+    font-size: 75px;
+    color: white;
+    padding-top: 50px;
+}
+
+.row h3 {
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+    color: white;
+    padding-top: 50px;
+}
