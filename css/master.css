@@ -173,6 +173,20 @@ img{
     border-radius: 10px;
 }
 
+.form-control {
+    margin: 50px;
+    padding-top: 20px;
+    border:none;
+    font-size: 25px;
+}
+
+.btn-primary {
+    padding: 10px;
+    background-color: #1abc9c;
+    font-size: 20px;
+    border-color: #1abc9c;
+}
+
 @media screen and (max-width: 420px) {
     .row-img  {
         width: calc((100% / 12) * 12)
