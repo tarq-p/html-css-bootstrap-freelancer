@@ -162,6 +162,22 @@ h3 {
     display: none;
 }
 
+i {
+    font-size: 20px;
+    color: white;
+    margin-top: 40px;
+    border-color: white;
+    border-radius: 10%;
+    background-size: 10px;
+    padding: 10px;
+}
+
+i:hover {
+    background-color:#ffffff;
+    color: #2c3e50;
+}
+
+
 #about {
     width: 100%;
     background-color: #1abc9c;
@@ -182,7 +198,7 @@ p {
     margin-top: 20px;
     border-radius: 5px;
     border-color: white;
-    margin-right: 35px;
+    margin-right: 35
 
 }
 
@@ -232,10 +248,6 @@ h4 {
     font-size: 20px;
 }
 
-.btn-twitter{
-    background-color: red;
-
-}
 
 .copyright small {
     color: white;
