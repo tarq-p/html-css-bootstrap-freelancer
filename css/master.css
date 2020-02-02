@@ -256,6 +256,7 @@ h4 {
 
 /* FINE FOOTER */
 
+
 @media screen and (max-width: 420px) {
     .row-img  {
         width: calc((100% / 12) * 12)
