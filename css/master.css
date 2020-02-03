@@ -252,3 +252,9 @@ h4 {
         width: calc((100% / 12) * 12)
     }
 }
+
+@media screen and (max-width: 420px) {
+    footer .fab {
+        display: none
+    }
+}
